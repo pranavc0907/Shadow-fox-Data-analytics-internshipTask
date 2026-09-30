@@ -10,7 +10,7 @@ segment breakdowns, and business-oriented insights.
 
 ## Dataset
 - **Source:** Sample Superstore dataset (Kaggle)
-- **File:** `SampleSuperstore.csv`
+- **File:** `SampleSuperstore.xlsx`
 - **Size:** 9,994 rows, 13 columns
 - **Fields:** Ship Mode, Segment, Country, City, State, Postal Code, Region,
   Category, Sub-Category, Sales, Quantity, Discount, Profit
